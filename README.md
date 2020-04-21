@@ -13,7 +13,7 @@ Frequently Asked Questions
   
 ## How should I organize my repository?
 
-  There is an art to roganizing repositories, but inevitably, as the project goes on, they will become a mess. I suggest the following basic organization that has worked for me ... until it becomes a mess
+  There is an art to organizing repositories, but inevitably, as the project goes on, they will become a mess. I suggest the following basic organization that has worked for me ... until it becomes a mess
   
   ```
   scripts/  : directory for short scripts that process data
@@ -25,6 +25,10 @@ Frequently Asked Questions
   dev/      : any other development for the project.
   ```
   
+## Do I need all those directories in every repository? 
+
+No. You can start from less, or none, but once the repository gets big enough ... it might be useful to use the structure. 
+
 ## Is there a policy on branching and pushing branches?
 
   Branch away, but there are two branch names that are reserved:
