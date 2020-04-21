@@ -36,6 +36,7 @@ Frequently Asked Questions
 ## Should repositories be public or private?
 
 All repositories should be private, unless we are doing releases from the lab. 
+
   
 ## Can I add items to this FAQ?
 
