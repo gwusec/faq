@@ -43,14 +43,12 @@ All repositories should be private, unless we are doing releases from the lab.
 
 ## Should I add a .gitignore file?
 
-Yes please! Adding a .gitignore file allows you to specify intentionally untracked files to ignore and helps to keep your repository free from clutter. For example, compiled code, class files, and IDE configuration files should not be commited to git repositories. 
+Yes please! Adding a .gitignore file allows you to specify intentionally untracked files to ignore and helps to keep your repository free from clutter. For example, compiled code, operating system files, and IDE configuration files should not be committed to git repositories. 
 
-The web site [https://www.gitignore.io](https://www.gitignore.io) is a great place to visit to generate an extenive .gitignore file. 
+The web site [https://www.gitignore.io](https://www.gitignore.io) is a useful for generating an extensive .gitignore file. 
 
-An example of a good .gitignore file for a Java/JavaScript/web project would be:  <br />
-[https://www.gitignore.io/api/vim,java,macos,emacs,windows,java-web,jetbrains+all,latex](https://www.gitignore.io/api/vim,java,macos,emacs,windows,java-web,jetbrains+all,latex) 
-
-
+An example of a good .gitignore file for a Java based web project would be:  <br />
+[https://www.gitignore.io/api/vim,java,macos,emacs,windows,java-web,jetbrains+all,latex](https://www.gitignore.io/api/vim,java,macos,emacs,windows,java-web,jetbrains+all,latex)
   
 ## Can I add items to this FAQ?
 
