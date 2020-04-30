@@ -47,7 +47,7 @@ Yes please! Adding a .gitignore file allows you to specify intentionally untrack
 
 The web site [https://www.gitignore.io](https://www.gitignore.io) is a great place to visit to generate an extenive .gitignore file. 
 
-An example of a good .gitignore file for a Java/JavaScript/web project would be:
+An example of a good .gitignore file for a Java/JavaScript/web project would be:  <br />
 [https://www.gitignore.io/api/vim,java,macos,emacs,windows,java-web,jetbrains+all,latex](https://www.gitignore.io/api/vim,java,macos,emacs,windows,java-web,jetbrains+all,latex) 
 
 
