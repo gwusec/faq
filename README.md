@@ -41,7 +41,10 @@ No. You can start from less, or none, but once the repository gets big enough ..
 
 All repositories should be private, unless we are doing releases from the lab. 
 
-  
+## I want to be added to the gwusec lab page?
+
+Great. Feel free to submit a pull request. 
+
 ## Can I add items to this FAQ?
 
    Yes! Submit a pull request and they can be added in easily. 
