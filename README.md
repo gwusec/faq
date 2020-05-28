@@ -56,6 +56,9 @@ An example of a good .gitignore file for a Java based web project would be:  <br
 
 Great. Feel free to submit a pull request. 
 
+## I want a VM of my own?
+
+Check out the vmware-faq page. 
 
 ## Can I add items to this FAQ?
 
