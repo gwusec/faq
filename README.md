@@ -60,6 +60,12 @@ Great. Feel free to submit a pull request.
 
 Check out the vmware-faq page. 
 
+## I want to add a Google API sign-in to my survey application?
+
+The [Google Sign-In Guide](https://developers.google.com/identity/sign-in/web/sign-in) is a good place to start.
+
+**Important:**  [Disconnect and revoke scopes](https://developers.google.com/identity/sign-in/web/disconnect) when the survey participant has completed or withdrawn from the survey.
+
 ## Can I add items to this FAQ?
 
    Yes! Submit a pull request and they can be added in easily. 
